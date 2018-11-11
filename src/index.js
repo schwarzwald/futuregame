@@ -1,1 +1,2 @@
-import * as scene from './example/scene'
+import './css/main.css'
+import * as scene from './javascript/scene'
